@@ -59,7 +59,7 @@ Solo se usa la **librería estándar de Go** (no hay paquetes de terceros):
 Requisito: tener [Go](https://go.dev/dl/) 1.21 o superior instalado.
 
 ```bash
-git clone https://github.com/TU-USUARIO/gestor-ebooks.git
+git clone https://github.com/ChristopherRSlater/gestor-ebooks.git
 cd gestor-ebooks
 go run .
 ```
